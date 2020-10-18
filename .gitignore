@@ -1,3 +1,6 @@
+# System files
+.DS_store
+
 # C++ objects and libs
 *.slo
 *.lo

@@ -1,1 +1,1 @@
-# algo-lab
+# Algorithmic laboratory
